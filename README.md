@@ -1,5 +1,6 @@
 <h1>Spotify :headphones:</h1>
 
+![spotify](https://user-images.githubusercontent.com/93801199/206582985-761b58f1-5d5b-43f7-bc89-cc8e54e4ed3c.jpg)
 
 <p>Página web Clone do Spotify  :page_with_curl:</p>
 
